@@ -1,0 +1,3 @@
+[submodule "ProjectLib"]
+	path = ProjectLib
+	url = https://github.com/Leo452379/ProjectLib.git
